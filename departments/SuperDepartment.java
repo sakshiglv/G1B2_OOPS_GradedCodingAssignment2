@@ -9,11 +9,12 @@ public class SuperDepartment {
 		return "No Work As Of Now";
 		
 	}
-    public String getWorkDeadline() {
-    	return "Nil";
-    	
+        public String getWorkDeadline() {
+	       
+	       return "Nil";
+	
     }
-    public String isTodayAHoliday(){
-    	return "Today Is Not A Holiday";
+        public String isTodayAHoliday(){
+	       return "Today Is Not A Holiday";
     }
 }   
